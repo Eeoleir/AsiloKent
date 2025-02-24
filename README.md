@@ -3,7 +3,6 @@
 <h3 align="center">A passionate front-end developer from Philippines</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-7i4.pages.dev/](https://my-portfolio-7i4.pages.dev/)
 
 - 📫 How to reach me **asilo.kentbryanv19@gmail.com**
 
